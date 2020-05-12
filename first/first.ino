@@ -4,6 +4,7 @@ void setup(){
 }
 
 void loop(){
-  Serial.println("Hello 아두이노");
-  delay(1000);
+  // 아무것도 안하는 디폴트 프로그램
+  //Serial.println("Hello 아두이노");
+  //delay(1000);
 }
